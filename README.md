@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ecommerce-etl-pipeline
-=======
 # E-commerce Event Pipeline
 
 A small, fully self-contained batch data engineering project: raw

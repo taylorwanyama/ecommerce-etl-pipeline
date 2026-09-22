@@ -174,4 +174,4 @@ data/                     # created when you run the scripts (bronze/silver/gold
 warehouse.db              # created on first load
 pipeline_runs.log         # created on first pipeline run
 ```
->>>>>>> 3daa1f7 (Initial project structure)
+
